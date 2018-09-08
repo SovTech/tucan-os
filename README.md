@@ -3,9 +3,7 @@
 
 [![CircleCI](https://circleci.com/gh/tucan/tucan.svg?style=shield)](https://circleci.com/gh/tucangraphql/tucan) [![Slack Status](https://slack.tucan.tech/badge.svg)](https://slack.tucan.tech) [![npm version](https://badge.fury.io/js/tucan.svg)](https://badge.fury.io/js/tucan)
 
-**Tucan is a performant open-source LMS(#is-tucan-an-orm)** doing the heavy lifting in your GraphQL server. It turns your database into a GraphQL API which can be consumed by your resolvers via [GraphQL bindings](https://oss.tucan.tech/content/graphql-binding/01-overview).
-
-Tucan's auto-generated GraphQL API provides powerful abstractions and modular building blocks to develop flexible and scalable GraphQL backends:
+Tucan's auto-generated LMS provides powerful abstractions and modular building blocks to develop flexible and scalable backends:
 
 - **Type-safe API** including filters, aggregations, pagination and transactions.
 - **Data modeling & migrations** with declarative GraphQL SDL.
